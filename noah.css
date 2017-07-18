@@ -1,5 +1,6 @@
 body {
-font-size: 18pt;	
+font-size: 18pt;
+	background-color:#6666ff;
 }
 	
 #contents {
@@ -14,7 +15,7 @@ h1 {
 }
 
 A:link {
-font-color: gold;
+font-color: #ffcc00;
 }
 
 A:hover {
