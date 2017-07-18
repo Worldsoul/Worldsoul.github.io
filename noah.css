@@ -1,13 +1,14 @@
 body {
-	
+font-size: 18pt;	
 }
 	
 #contents {
-
+ width: 200px;
 }
 
 h1 { 
-	font-variant-east-asian
+	font-variant-east-asian;
+	font-size: 400%;
 }
 
 A:link {
@@ -31,7 +32,7 @@ a:visited {
  }
  
  h3 {
-
+font-size: 300%;
 }
  
  img {http://www.photographyblogger.net/wp-content/uploads/2013/08/10-sleeping-cat.jpg
@@ -43,7 +44,7 @@ img.left {https://www.petsworld.in/blog/wp-content/uploads/2015/10/Sleeping-Cat.
 }
 
 #footer {
-
+font-size:200%;
 }
 
 #clearer {
