@@ -2,6 +2,7 @@ body {
 font-size: 18pt;
 	background-color:#6666ff;
 	color:#ffff00;
+font-family: 'Dancing Script', cursive;
 }
 	
 #contents {
@@ -11,7 +12,7 @@ font-size: 18pt;
 }
 
 h1 { 
-	font-variant-east-asian;
+	font-family: 'Shadows Into Light', cursive;
 	font-size: 400%;
 }
 
@@ -34,6 +35,7 @@ background-color:#9966ff;
  #home, #page2 {
 background-color: #33cccc;
 padding:35px;
+font-family: 'Lobster', cursive;
  }
  
  h3 {
