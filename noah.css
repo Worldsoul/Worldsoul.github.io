@@ -14,10 +14,12 @@ font-family: 'Dancing Script', cursive;
 h1 { 
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 400%;
+	padding-left: 100px;
 }
 
 A:link {
 font-color: #ffcc00;
+	padding-left: 35px;
 }
 
 A:hover {
