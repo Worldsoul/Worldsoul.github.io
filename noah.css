@@ -33,6 +33,8 @@ a:visited {
 
 #headblock address { 
 background-color:#9966ff;
+	padding-left: 25px;
+	padding-right: 25px;
 }
  
  #home, #page2 {
