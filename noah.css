@@ -38,7 +38,7 @@ background-color:#9966ff;
 }
  
  #home, #page2 {
-background-color: #33cccc;
+background-color: rgba(0,0,0,0.5);
 padding:35px;
 font-family: 'Lobster', cursive;
 	 border:#9933ff radial-gradient;
