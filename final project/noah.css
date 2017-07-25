@@ -1,0 +1,90 @@
+body {
+font-size: 18pt;
+	background-color:#6666ff;
+	color:#ffff00;
+font-family: 'Dancing Script', cursive;
+}
+	
+#contents {
+ width: 1080px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background: url("https://s-media-cache-ak0.pinimg.com/originals/c0/d0/eb/c0d0ebf52d130675e147d9715dd2872f.png")
+}
+
+h1 { 
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 400%;
+	padding-left: 100px;
+}
+.topnav {
+ overflow: hidden;
+    background: rgba(0,0,0,.75);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.topnav a {
+ float: left;
+ display: block;
+ color: #f2f2f2 ;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 17px;
+}
+
+.topnav a:hover {
+ background-color: #ddd;
+ color: black;
+}
+
+.topnav .icon {
+ display: none;
+}
+A:link {
+font-color: #ffcc00;
+	padding-left: 35px;
+}
+
+A:hover {
+
+}
+
+a:visited {
+
+}
+
+#headblock address { 
+background-color:#9966ff;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+ 
+ #home, #page2 {
+background-color: rgba(0,0,0,0.5);
+padding:35px;
+font-family: 'Lobster', cursive;
+	 border:#9933ff radial-gradient;
+ }
+ 
+ h3 {
+font-size: 300%;
+	 font-family: 'Tangerine', cursive;
+}
+ 
+ img.right {http://www.photographyblogger.net/wp-content/uploads/2013/08/10-sleeping-cat.jpg
+padding: 35px;
+}
+
+img.left {https://www.petsworld.in/blog/wp-content/uploads/2015/10/Sleeping-Cat.jpg
+
+}
+
+#footer {
+font-size:200%;
+}
+
+#clearer {
+
+}
