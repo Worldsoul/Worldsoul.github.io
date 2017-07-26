@@ -21,7 +21,7 @@
 							<a href="index.html">Home</a>
 						</li>
 						<li id = "selected">
-							<a href="page2.html">Page 2</a>
+							<a href="page2.html">Latest</a>
 						</li>
 					</ul>
 				</div>	
